@@ -1,1 +1,1 @@
-# pre_processing_data_weather
+Pré-processamento de dados meteorológicos contendo limpeza de valores vazios pela média, troca de tipo dos dados, cálculo de FFT para descobrir frequência dos dados, consertar dados de vento inconsistentes.
